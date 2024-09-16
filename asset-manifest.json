@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bhagirathbaraiya/React-tic-tac-toe.git/static/css/main.670e95d6.css",
+    "main.js": "/bhagirathbaraiya/React-tic-tac-toe.git/static/js/main.87ab6a0e.js",
+    "static/js/453.e036e8b5.chunk.js": "/bhagirathbaraiya/React-tic-tac-toe.git/static/js/453.e036e8b5.chunk.js",
+    "static/media/Ogreen.png": "/bhagirathbaraiya/React-tic-tac-toe.git/static/media/Ogreen.fd631cd40d71c4972499.png",
+    "static/media/Xred.png": "/bhagirathbaraiya/React-tic-tac-toe.git/static/media/Xred.eb4c2eb898e1dedd2a39.png",
+    "index.html": "/bhagirathbaraiya/React-tic-tac-toe.git/index.html",
+    "main.670e95d6.css.map": "/bhagirathbaraiya/React-tic-tac-toe.git/static/css/main.670e95d6.css.map",
+    "main.87ab6a0e.js.map": "/bhagirathbaraiya/React-tic-tac-toe.git/static/js/main.87ab6a0e.js.map",
+    "453.e036e8b5.chunk.js.map": "/bhagirathbaraiya/React-tic-tac-toe.git/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670e95d6.css",
+    "static/js/main.87ab6a0e.js"
+  ]
+}
