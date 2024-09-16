@@ -1,6 +1,4 @@
 import React from 'react'
-import X from '../Assets/Xred.png'
-import O from '../Assets/Ogreen.png'
 
 function Box(props) {    
   return (

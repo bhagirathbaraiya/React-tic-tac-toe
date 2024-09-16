@@ -32,3 +32,16 @@
   height: 10vw;
   width: 10vw;
 }
+#messege{
+  font-size: 6vh;
+  text-align: center;
+  width: 100%;
+}
+#reset-btn{
+  background-color: rgb(37, 20, 20);
+  color: rgb(0, 255, 72);
+  height: 5vw;
+  width: 7vw;
+  border: none;
+  border-radius: 16px;
+}
