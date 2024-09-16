@@ -1,12 +1,12 @@
-import X from '../Assets/Xred.png'
-import O from '../Assets/Ogreen.png'
-
 import React from 'react'
 
-function Box() {
+function Box(props) {
+    console.log(props);
+    
   return (
-    <div className='box'>
-        <img src={O} alt=""  className='font-img'/>
+    <div className='box' onClick={()=>{props.click(props.id)}}>
+        {/* <img src={O} alt=""  className='font-img'/> */}
+
     </div>
   )
 }
