@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Game]((https://github.com/bhagirathbaraiya/React-tic-tac-toe/blob/master/Game.png) "Game")
+![Game]((Game.png) "Game")
 
 ## Available Scripts
 
