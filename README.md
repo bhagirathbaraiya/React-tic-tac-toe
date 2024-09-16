@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Game]((Game.png) "Game")
+![Game](Game.png "Game")
 
 ## Available Scripts
 
